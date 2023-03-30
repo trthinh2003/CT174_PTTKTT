@@ -1,0 +1,9 @@
+1000 Mot Ngan Dong
+2000 Hai Ngan Dong
+5000 Nam Ngan Dong
+10000 Muoi Ngan Dong
+20000 Hai Muoi Ngan Dong
+50000 Nam Muoi Ngan Dong
+100000 Mot Tram Ngan Dong
+200000 Hai Tram Ngan Dong
+500000 Nam Tram Ngan Dong
